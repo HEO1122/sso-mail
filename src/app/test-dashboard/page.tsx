@@ -142,7 +142,7 @@ export default function TestDashboard() {
     <div className="container mx-auto p-4 bg-white min-h-screen">
       <div className="flex justify-between items-center mb-6">
         <div>
-          <h1 className="text-2xl font-bold text-black mb-1">테스트 대시보드</h1>
+          <h1 className="text-2xl font-bold text-black mb-1">추이 대시보드</h1>
           <p className="text-gray-600">월별 계정 관리 통계를 차트로 확인할 수 있습니다.</p>
         </div>
         <div className="flex space-x-2">

@@ -182,7 +182,7 @@ export default function Dashboard() {
             href="/test-dashboard" 
             className="bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700 transition"
           >
-            테스트 대시보드
+            추이 대시보드
           </Link>
         </div>
       </div>
