@@ -96,4 +96,4 @@ export async function DELETE(
     console.error('Delete error:', error);
     return NextResponse.json({ error: '사용자 삭제 중 오류가 발생했습니다' }, { status: 500 });
   }
-} 
+}
